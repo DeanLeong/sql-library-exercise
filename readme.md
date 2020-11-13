@@ -31,7 +31,7 @@ Take a few minutes to research the other rows.
 Load the schema into your database from the command line...
 
 ```bash
-$ psql -d library < schema.sql
+$ psql -d library -f schema.sql
 ```
 > This command is also run from your Bash prompt -- not inside `psql`
 
