@@ -42,7 +42,7 @@ We've provided a sql file that adds sample data into our `library` database.
 Load that in so we can practice interacting with our data. Make sure to also look at its contents and see how authors and books are related.
 
 ```bash
-$ psql -d library < seed.sql
+$ psql -d library -f seed.sql
 ```
 
 ## Performing CRUD actions with SQL
