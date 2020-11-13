@@ -2,7 +2,7 @@
 
 ## Get Started
 
-Clone down this repo and open its contents in Atom. Then read through and follow the steps below.
+Clone down this repo and open its contents in VS Code. Then read through and follow the steps below.
 
 ## Creating Our Database
 
